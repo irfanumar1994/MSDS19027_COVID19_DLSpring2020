@@ -4,6 +4,8 @@ This repository contains code and results for COVID-19 classification assignment
 # DATASET 
 datset is available at: https://drive.google.com/file/d/1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK/view
 
+![GitHub Logo](https://github.com/irfanumar1994/MSDS19027_COVID19_DLSpring2020/blob/master/Results/data.JPG)
+
 Trained Weights are available at: https://drive.google.com/open?id=1g68LRJxSJvW-CBhmCgr_28boj663XuB-
 
 # Results: 
