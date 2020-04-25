@@ -10,7 +10,7 @@ Trained Weights are available at: https://drive.google.com/open?id=1g68LRJxSJvW-
 
 # Results: 
 ## vgg16:  
-![GitHub Logo](https://github.com/irfanumar1994/MSDS19027_COVID19_DLSpring2020/blob/master/Results/vgg16_results.JPG)
+![GitHub Logo](https://github.com/irfanumar1994/MSDS19027_COVID19_DLSpring2020/blob/master/Results/vggreults.JPG)
 
 ## RESNET18:
 ![GitHub Logo](https://github.com/irfanumar1994/MSDS19027_COVID19_DLSpring2020/blob/master/Results/resnet18.JPG)
