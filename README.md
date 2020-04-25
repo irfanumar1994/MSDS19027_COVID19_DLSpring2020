@@ -7,7 +7,7 @@ datset is available at: https://drive.google.com/file/d/1-HQQciKYfwAO3oH7ci6zhg4
 Trained Weights are available at: https://drive.google.com/open?id=1g68LRJxSJvW-CBhmCgr_28boj663XuB-
 
 # Results: 
-## vgg16: 
+## vgg16:  
 ![GitHub Logo](https://github.com/irfanumar1994/MSDS19027_COVID19_DLSpring2020/blob/master/Results/vgg16.JPG)
 
 ## RESNET18:
