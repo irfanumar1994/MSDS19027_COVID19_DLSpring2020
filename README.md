@@ -25,13 +25,13 @@ Trained models are available at: https://drive.google.com/open?id=1E2spaM7ddTX2_
 
 # Results for Part 2
 
-![GitHub Logo](https://github.com/irfanumar1994/MSDS19027_COVID19_DLSpring2020/blob/master/Results/vgg%20bcelogitloss.png)
+![GitHub Logo](https://github.com/irfanumar1994/MSDS19027_COVID19_DLSpring2020/blob/master/Results/vgg%20bcelogitloss1.png)
 
-![GitHub Logo](https://github.com/irfanumar1994/MSDS19027_COVID19_DLSpring2020/blob/master/Results/vgg%20focal%20loss.png)
+![GitHub Logo](https://github.com/irfanumar1994/MSDS19027_COVID19_DLSpring2020/blob/master/Results/vgg%20focal%20loss1.png)
 
-![GitHub Logo](https://github.com/irfanumar1994/MSDS19027_COVID19_DLSpring2020/blob/master/Results/resnt%20bce%20logit.png)
+![GitHub Logo](https://github.com/irfanumar1994/MSDS19027_COVID19_DLSpring2020/blob/master/Results/resnt%20bce%20logit1.png)
 
-![GitHub Logo](https://github.com/irfanumar1994/MSDS19027_COVID19_DLSpring2020/blob/master/Results/resnet%20focal%20logit.png)
+![GitHub Logo](https://github.com/irfanumar1994/MSDS19027_COVID19_DLSpring2020/blob/master/Results/resnet%20focal%20logit1.png)
 
 
 
